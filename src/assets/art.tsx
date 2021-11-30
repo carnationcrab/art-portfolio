@@ -1,0 +1,22 @@
+export const Art = [
+  {
+    title: "pixel satyr",
+    src: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/618e293f-d280-4bed-b217-f671d3752656/deuszb0-e8fea1ee-6615-4ad0-b3ea-b2edf18356dc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxOGUyOTNmLWQyODAtNGJlZC1iMjE3LWY2NzFkMzc1MjY1NlwvZGV1c3piMC1lOGZlYTFlZS02NjE1LTRhZDAtYjNlYS1iMmVkZjE4MzU2ZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._DXALrBHuSyAKII0f97-0FPAbb4bD-cVLzG7ouNIdVU",
+    category: "pixel",
+  },
+  {
+    title: "pixel dragon",
+    src: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/618e293f-d280-4bed-b217-f671d3752656/deusc2r-bdde0fe3-0a99-408a-b2b8-cd04f5eab02b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxOGUyOTNmLWQyODAtNGJlZC1iMjE3LWY2NzFkMzc1MjY1NlwvZGV1c2Myci1iZGRlMGZlMy0wYTk5LTQwOGEtYjJiOC1jZDA0ZjVlYWIwMmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0uad1XUBuCaY_VHHsWS3gCwydNTWT3OMVFkG3YNs05Y",
+    category: "pixel",
+  },
+  {
+    title: "pixel tree",
+    src: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/618e293f-d280-4bed-b217-f671d3752656/deured2-38115c0d-6e8b-4d59-8374-0f469aad4504.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxOGUyOTNmLWQyODAtNGJlZC1iMjE3LWY2NzFkMzc1MjY1NlwvZGV1cmVkMi0zODExNWMwZC02ZThiLTRkNTktODM3NC0wZjQ2OWFhZDQ1MDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3TWbaQx30_D_e0GHCfC1r11HruCuf3YhErz1i1Onmdg",
+    category: "pixel",
+  },
+  {
+    title: "PROTECT Elephant",
+    src: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/618e293f-d280-4bed-b217-f671d3752656/daaa09t-4cd9c413-5b25-4db2-b3dc-d7dcc75d57f2.png/v1/fill/w_1024,h_1024,strp/protect__elephant_by_hopelesslavender_daaa09t-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxOGUyOTNmLWQyODAtNGJlZC1iMjE3LWY2NzFkMzc1MjY1NlwvZGFhYTA5dC00Y2Q5YzQxMy01YjI1LTRkYjItYjNkYy1kN2RjYzc1ZDU3ZjIucG5nIiwiaGVpZ2h0IjoiPD0xMDI0Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNjE4ZTI5M2YtZDI4MC00YmVkLWIyMTctZjY3MWQzNzUyNjU2XC9ob3BlbGVzc2xhdmVuZGVyLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.2AUuRtDSxeCsIyzpCC7rWd46CYkYUeZIxyeDJYnYrLg",
+    category: "2D Art",
+  },
+];
